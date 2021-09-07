@@ -17,5 +17,6 @@ public class Removechar {
         }
         System.out.println(newchar);
     }
+    //demo changes
 
 }
